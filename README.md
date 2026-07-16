@@ -4,4 +4,4 @@ I'm an aspiring DevOps Engineer from Nepal, currently focused on learning cloud 
 
 I’m interested in understanding how applications are deployed, managed, monitored, and improved in real-world environments.
 
-<img width="480" height="270" alt="innerpeace" src="https://github.com/user-attachments/assets/77910f69-d6f0-409c-a9af-e02e498668ff" />
+<img width="650" height="270" alt="innerpeace" src="https://github.com/user-attachments/assets/77910f69-d6f0-409c-a9af-e02e498668ff" />
